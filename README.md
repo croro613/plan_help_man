@@ -27,3 +27,7 @@ npm install
 npm run build
 npm run deploy
 ```
+
+## AI agent構築
+こちらのリポジトリのREADMEで構築
+https://github.com/croro613/help_man_ai_agent
